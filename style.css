@@ -1,0 +1,757 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.myimg1{
+    width: 90px;
+    height: 40px;
+}
+.svg1 {
+    width: 20.4px;
+    height: 21px;
+}
+
+
+.my-navbar li:hover {
+    color: black;
+    font-size: 17px;
+}
+
+.last-dropdowm {
+    display: flex;
+    justify-content: end;
+}
+
+.my-ul li {
+    padding: 10px;
+}
+
+.nav-btn {
+    border: none !important;
+    outline: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+.nav-hr {
+    border-color: #000000;
+    opacity: 1;
+}
+
+/* nav outline */
+
+
+.nav-outline {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn1 {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.btn2 {
+    border: 1px solid #166AEA;
+    padding: 8px 20px 9px;
+    color: #fff;
+    background-color: #166AEA;
+    border-radius: 22px;
+}
+
+
+
+
+/*gradiant 1 (light blue)  */
+
+
+.gradiant {
+    padding-top: 30px;
+    margin-top: 10px;
+    width: 100%;
+    height: 70vh;
+    background: linear-gradient(to bottom,
+            #8CBAFF 0%,
+            #A9CFFF 50%,
+            #BBDEFF 100%);
+
+}
+
+.gradiant p {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.gradiant h1 {
+    font-size: 41px;
+    font-weight: 400;
+}
+
+.gradiant button {
+    color: #fff;
+    width: 157px;
+    height: 48px;
+    font-weight: 500;
+    margin-left: 10px;
+    background-color: #000000;
+    border: 1px solid #000000;
+    padding: 12px 12px;
+    border-radius: 29px;
+}
+
+
+/* video 1 */
+
+.video1 {
+    display: block;
+    width: 280px;
+    height: 165px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.video1 video {
+    border: 1px;
+    border-radius: 16px;
+}
+
+
+/* div 1 */
+
+.div1 {
+    margin-top: 130px;
+    display: flex;
+}
+
+.div1 p {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.img10 {
+    width: 90px;
+    height: 30px;
+
+}
+
+
+
+/* div 2 */
+.div2 {
+    margin-top: 50px;
+}
+
+.div2 h1 {
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.div2 p {
+    font-size: 16px;
+}
+
+.btn3 {
+    background-color: #000000;
+    border: #000000;
+}
+
+
+
+/* div3 */
+
+.div3 {
+    margin-top: 30px;
+    width: 100%;
+    height: 69vh;
+    background-color: #1E2C3E;
+}
+
+.div3content {
+    padding-top: 30px;
+    color: #FFFFFF;
+}
+
+.underline {
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+
+.div3content p {
+    font-size: 14px;
+}
+
+.div3content select {
+    margin-top: 5px;
+    padding: 4px 8px 4px 24px;
+    width: 100%;
+    border: 1px solid #FFFFFF;
+    background-color: #1E2C3E;
+    border-radius: 2px;
+    color: #FFFFFF;
+}
+
+
+/* carusal */
+.caroual {
+    width: 100%;
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+.img1 {
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+
+.hthree {
+    margin-top: 30px;
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+
+
+/* card section */
+
+.card1 {
+    margin-top: 30px;
+}
+
+.mycard {
+    border: 1px solid #FED980;
+    border-radius: 20px;
+    background-color: #FED980;
+    padding-top: 20px;
+}
+
+.mycard p {
+    margin-top: 20px;
+    font-size: 15px;
+    word-spacing: 1px;
+}
+
+.mybutt1 button {
+    width: 100%;
+    background-color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 20px;
+    padding: 10px 0px;
+    color: #000000;
+}
+
+.mybutt2 button {
+    width: 100%;
+    background-color: #015293;
+    border: 1px solid #015293;
+    border-radius: 20px;
+    padding: 10px 50px;
+}
+
+
+
+.driv4 {
+    margin-top: 40px;
+}
+
+.driv4 hr {
+    width: 90%;
+    color: #000000;
+}
+
+.driv4 h1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.btn4 {
+    margin-top: 30px;
+    color: #FFFFFF;
+    background-color: #000000;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    padding: 6px 24px;
+    text-decoration: none;
+}
+
+
+
+/* div 5 */
+
+.driv5 {
+    width: 100%;
+    height: 80vh;
+    margin-top: 40px;
+    padding-top: 40px;
+    background-color: #EDE9E5;
+
+}
+
+.driv5 h1 {
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.driv5 p {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.card3to6 {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+}
+
+.mycard3 {
+    min-width: 265px;
+    height: 380px;
+}
+
+.mycard3 h5 {
+    margin-top: 10px;
+}
+
+.mycard3 p {
+    margin-top: 13px;
+    font-size: 15px;
+}
+
+.btn5 {
+    margin-top: 30px;
+    color: #FFFFFF;
+    background-color: #000000;
+    border: 2px solid #000000;
+    border-radius: 20px;
+    padding: 9px 24px;
+    text-decoration: none;
+}
+
+
+
+/* card7to11 */
+
+.card7to11 {
+    margin-top: 70px;
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    gap: 20px;
+}
+
+.card7to11 a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.link1 {
+    margin-top: 100px;
+}
+
+.link2 {
+    margin-top: 50px;
+}
+
+.link4 {
+    margin-top: 80px;
+}
+
+.card7 {
+    min-width: 245px;
+    height: 415px;
+    font-size: 17px;
+    background-color: #D1E6D1;
+    border: 1PX solid #D1E6D1;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.card8 {
+    min-width: 245px;
+    height: 415px;
+    background-color: #9EB4CE;
+    border: 1PX solid #9EB4CE;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.card9 {
+    min-width: 245px;
+    height: 415px;
+    background-color: #FED980;
+    border: 1PX solid #FED980;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 10px 10px;
+}
+
+.card10 {
+    min-width: 245px;
+    height: 415px;
+    background-color: #EDE9E5;
+    border: 1PX solid #EDE9E5;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 17px;
+}
+
+/* div 6 */
+
+.driv6 {
+    margin-top: 50px;
+    padding-top: 70px;
+    width: 100%;
+    height: 40vh;
+    background-color: #8CBAFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.driv6 button {
+    margin-top: 20px;
+    color: #fff;
+    background-color: #000000;
+    padding: 5px 28px;
+    border: 1px soid #000000;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.driv6 h1 {
+    font-size: 32px;
+}
+
+/* div 7 */
+.driv7 {
+    margin: 50px 0;
+}
+
+.driv7 li {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.driv7 ul :hover {
+    cursor: pointer;
+    color: #8CBAFF;
+}
+
+/* div 8 */
+
+.driv8 {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.driv8 svg {
+    width: 30px;
+    height: 30px;
+}
+
+/* div 9 */
+
+.driv9 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+.driv9 a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.driv9 a :hover {
+    cursor: pointer;
+    color: #8CBAFF;
+
+}
+
+  
+
+/* @media quer start */
+
+
+    /* Write your tablet CSS here */
+
+
+@media screen and (min-width: 768px) {
+
+.nav-outline li{
+    color: #FFFFFF;
+    background: lightskyblue;
+}
+
+.content-text p{
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.content-text h1{
+    font-size: 51px;
+
+}
+
+.content-text-1 p{
+    margin-top: 5px;
+    
+}
+
+
+
+
+.video1 {
+    display: block;
+    width: 950px;
+    height: 450px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.video1 video {
+    border: 1px;
+    border-radius: 16px;
+}
+
+
+
+.content-text-2{
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+.div3 {
+    margin-top: 30px;
+    width: 100%;
+    height: 90vh;
+    background-color: #1E2C3E;
+}
+
+.div3content {
+    padding-top: 30px;
+    color: #FFFFFF;
+}
+
+.underline {
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+
+.div3content p {
+    font-size: 14px;
+}
+
+.div3content select {
+    margin-top: 5px;
+    padding: 4px 8px 4px 24px;
+    width: 100%;
+    border: 1px solid #FFFFFF;
+    background-color: #1E2C3E;
+    border-radius: 2px;
+    color: #FFFFFF;
+}
+
+
+
+.caroual {
+    width: 100%;
+    border: 1px solid;
+    border-radius: 10px;
+    height: 150px;
+}
+
+.myimg1 image{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+
+.hthree {
+    display: none;
+}
+
+
+
+.card1 {
+    margin: 250px auto 150px;
+}
+
+.mycard {
+    border: 1px solid #FED980;
+    border-radius: 20px;
+    background-color: #FED980;
+    padding-top: 20px;
+}
+.mycard h5{
+    font-size: 32px;
+    font-weight: bold;
+}
+.mycard p {
+    margin-top: 35px;
+    font-size: 18px;
+    word-spacing: 1px;
+}
+
+.mybutt1 button {
+    width: 100%;
+    background-color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 20px;
+    padding: 10px 0px;
+    color: #000000;
+}
+
+.mybutt2 button {
+    width: 100%;
+    background-color: #015293;
+    border: 1px solid #015293;
+    border-radius: 20px;
+    padding: 10px 50px;
+}
+
+.mycard {
+    height: 450px;
+}
+
+
+
+.btn4 {
+    margin-top: 30px;
+    color: #FFFFFF;
+    background-color: #000000;
+    border: 1px solid #000000;
+    border-radius: 30px;
+    padding: 6px 24px;
+    text-decoration: none;
+    width: 150px;
+    height: 50px;
+} 
+
+
+
+
+.content-text-3{
+    display: none;
+}
+
+
+
+
+.driv5 {
+    width: 100%;
+    height: 80vh;
+    margin-top: 40px;
+    padding-top: 40px;
+    background-color: #EDE9E5;
+ 
+}
+
+.driv5 h1 {
+    font-weight: bold;
+    font-size: 40px ;
+    margin-bottom: 20px;
+}
+
+.driv5 p {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+
+
+
+.mycard3 {
+    min-width: 350px;
+    height: 380px;
+    margin-top: 10px;
+    justify-content: space-evenly;
+}
+
+.mycard3 h5 {
+    margin-top: 10px;
+}
+
+.mycard3 p {
+    margin-top: 13px;
+    font-size: 15px;
+}
+
+.btn5 {
+    margin-top: 30px;
+    color: #FFFFFF;
+    background-color: #000000;
+    border: 2px solid #000000;
+    border-radius: 20px;
+    padding: 9px 24px;
+    text-decoration: none;
+}
+
+.card10 {
+    min-width: 245px;
+    height: 415px;
+    background-color: #8CBAFF;
+    border: 1PX solid #EDE9E5;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 17px;
+}
+
+
+
+
+
+
+
+.driv6 {
+    margin-top: 50px;
+    padding-top: 20px;
+    width: 100%;
+    height: 30vh;
+    background-color: #8CBAFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.driv6 button {
+    margin-top: 20px;
+    color: #fff;
+    background-color: #000000;
+    padding: 5px 28px;
+    border: 1px soid #000000;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.driv6 h1 {
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
